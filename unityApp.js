@@ -197,7 +197,7 @@ const unityApp = {
         const loaderUrl = buildUrl + "/StickmanFootball-mirraSDK-YandexGames.loader.js";
         const config = {
             arguments: [],
-            dataUrl: buildUrl + "/StickmanFootball-mirraSDK-YandexGames.data.unityweb",
+            dataUrl: buildUrl + "/1StickmanFootball-mirraSDK-YandexGames.data.unityweb",
             frameworkUrl: buildUrl + "/StickmanFootball-mirraSDK-YandexGames.framework.js.unityweb",
             codeUrl: buildUrl + "/StickmanFootball-mirraSDK-YandexGames.wasm.unityweb",
             streamingAssetsUrl: "StreamingAssets",
